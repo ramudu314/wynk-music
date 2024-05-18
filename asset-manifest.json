@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/wynk-music/static/css/main.17350316.css",
+    "main.js": "/wynk-music/static/js/main.0fe34640.js",
+    "static/media/login.png": "/wynk-music/static/media/login.1871ea6c59466971d222.png",
+    "static/media/revicons.eot": "/wynk-music/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/wynk-music/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/wynk-music/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/wynk-music/index.html",
+    "main.17350316.css.map": "/wynk-music/static/css/main.17350316.css.map",
+    "main.0fe34640.js.map": "/wynk-music/static/js/main.0fe34640.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17350316.css",
+    "static/js/main.0fe34640.js"
+  ]
+}
